@@ -1,0 +1,1 @@
+Nota : " En el .gitignore solo agregue la carpeta correspondiente al entorno virtual y la carpeta que crea docker-compose, la base de datos que Django proporciona como ejemplo aun esta ahí"
